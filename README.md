@@ -47,9 +47,16 @@ Se emplean los **drivers oficiales del fabricante (LPCOpen)** y se trabaja con l
 
 ## 📁 Estructura del repositorio
 
+<div>
+📂 TPI-EDIII/<br>
+├── 📁 interfazGrafica/<br>
+│ └── main.py<br>
+└── README.md<br>
+</div>
+
 ---
 
-## Documentacion
+## 📄 Documentacion
 - Diagramas: https://app.diagrams.net/?src=about#G1IMGk8w9lqBJJe1NxAWwWeybKDpQYxfQg#%7B%22pageId%22%3A%22uJRF4o9xHOsBB05Lw5MU%22%7D <br>
 - Informe: https://docs.google.com/document/d/1YE0hSEUlI8fIuy_mFEWoVtWISW1CArm8FtCgdiVkmiQ/edit?tab=t.0
 

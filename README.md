@@ -57,7 +57,9 @@ Se emplean los **drivers oficiales del fabricante (LPCOpen)** y se trabaja con l
 ---
 
 ## 📄 Documentacion
-- Diagramas: https://app.diagrams.net/?src=about#G1IMGk8w9lqBJJe1NxAWwWeybKDpQYxfQg#%7B%22pageId%22%3A%22uJRF4o9xHOsBB05Lw5MU%22%7D <br>
+- Diagramas:<br>
+  *I. Diagrama en Bloques:* https://app.diagrams.net/?src=about#G1IMGk8w9lqBJJe1NxAWwWeybKDpQYxfQg#%7B%22pageId%22%3A%22uJRF4o9xHOsBB05Lw5MU%22%7D <br>
+  *II.Diagrama de Perifericos:* https://app.diagrams.net/?src=about#G1u3yI-mBywk7xUwskYrH5xNu0VPfTu9Vm#%7B%22pageId%22%3A%22w6Y2oLb45FeUh1y8tp_h%22%7D 
 - Informe: https://docs.google.com/document/d/1YE0hSEUlI8fIuy_mFEWoVtWISW1CArm8FtCgdiVkmiQ/edit?tab=t.0
 
 ---

@@ -1,0 +1,1037 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                              ./src/cr_startup_lpc175x_6x.o (SystemInit)
+/home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                              ./src/TPI-EDIII.o (ADC_Init)
+/home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                              /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o) (CLKPWR_GetPCLK)
+/home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                              ./src/TPI-EDIII.o (GPIO_SetDir)
+/home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+                              /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o) (check_failed)
+/home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+                              ./src/TPI-EDIII.o (PINSEL_ConfigPin)
+/home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                              ./src/TPI-EDIII.o (TIM_GetIntStatus)
+/usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc175x_6x.o (__main)
+/usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_64.o)
+                              /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o) (__aeabi_uldivmod)
+/usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+                              /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_64.o) (__aeabi_idiv0)
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./src/TPI-EDIII.o
+ .group         0x00000000        0xc ./src/TPI-EDIII.o
+ .group         0x00000000        0xc ./src/TPI-EDIII.o
+ .group         0x00000000        0xc ./src/TPI-EDIII.o
+ .group         0x00000000        0xc ./src/TPI-EDIII.o
+ .group         0x00000000        0xc ./src/TPI-EDIII.o
+ .group         0x00000000        0xc ./src/TPI-EDIII.o
+ .group         0x00000000        0xc ./src/TPI-EDIII.o
+ .group         0x00000000        0xc ./src/TPI-EDIII.o
+ .group         0x00000000        0xc ./src/TPI-EDIII.o
+ .group         0x00000000        0xc ./src/TPI-EDIII.o
+ .group         0x00000000        0xc ./src/TPI-EDIII.o
+ .group         0x00000000        0xc ./src/TPI-EDIII.o
+ .group         0x00000000        0xc ./src/TPI-EDIII.o
+ .group         0x00000000        0xc ./src/TPI-EDIII.o
+ .group         0x00000000        0xc ./src/TPI-EDIII.o
+ .text          0x00000000        0x0 ./src/TPI-EDIII.o
+ .data          0x00000000        0x0 ./src/TPI-EDIII.o
+ .bss           0x00000000        0x0 ./src/TPI-EDIII.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc175x_6x.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0xade ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0xc ./src/crp.o
+ .group         0x00000000        0xc ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .debug_macro   0x00000000      0xade ./src/crp.o
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .text          0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .data          0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .bss           0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000       0xb8 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000       0x1c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000       0x2e /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000       0x10 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x12e /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x5b3 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000       0x18 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x7af /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x2c7 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text          0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .data          0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .bss           0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text.ADC_DeInit
+                0x00000000       0x30 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text.ADC_GetData
+                0x00000000       0x10 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text.ADC_PowerdownCmd
+                0x00000000       0x30 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text.ADC_ChannelGetStatus
+                0x00000000       0x48 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text.ADC_GlobalGetData
+                0x00000000       0x20 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text.ADC_GlobalGetStatus
+                0x00000000       0x48 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_macro   0x00000000      0xad8 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_macro   0x00000000       0x1c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_macro   0x00000000       0x2e /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_macro   0x00000000       0x10 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_macro   0x00000000      0x12e /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_macro   0x00000000      0x5b3 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_macro   0x00000000       0x18 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_macro   0x00000000      0x7af /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_macro   0x00000000      0x2c7 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_macro   0x00000000       0x63 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .text          0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .data          0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .bss           0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_Sleep
+                0x00000000       0x10 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_DeepSleep
+                0x00000000       0x1c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_PowerDown
+                0x00000000       0x1c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_DeepPowerDown
+                0x00000000       0x1c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000      0xad8 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000       0x1c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000       0x2e /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000       0x10 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000      0x12e /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000      0x5b3 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000       0x18 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000      0x7af /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000      0x2c7 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000       0x63 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text          0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .data          0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .bss           0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.GPIO_ReadValue
+                0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.GPIO_IntCmd
+                0x00000000       0x38 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.GPIO_GetIntStatus
+                0x00000000       0x40 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.GPIO_ClearInt
+                0x00000000       0x1c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_SetDir
+                0x00000000        0x4 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_SetValue
+                0x00000000        0x4 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_ClearValue
+                0x00000000        0x4 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_ReadValue
+                0x00000000        0x4 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_IntCmd
+                0x00000000        0x4 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_GetIntStatus
+                0x00000000        0x4 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_ClearInt
+                0x00000000        0x4 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_SetMask
+                0x00000000       0x18 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetDir
+                0x00000000       0x36 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetMask
+                0x00000000       0x36 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetValue
+                0x00000000       0x12 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordClearValue
+                0x00000000       0x12 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordReadValue
+                0x00000000       0x14 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetDir
+                0x00000000       0x22 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetMask
+                0x00000000       0x26 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetValue
+                0x00000000       0x12 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_ByteClearValue
+                0x00000000       0x12 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_ByteReadValue
+                0x00000000       0x16 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000      0xad8 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000       0x1c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000       0x2e /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000       0x10 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000      0x12e /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000      0x5b3 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000       0x18 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000      0x7af /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000      0x2c7 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000       0x63 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000       0xdd /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .text          0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .data          0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .bss           0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00000000      0xad8 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00000000       0x10 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00000000      0x12e /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00000000      0x5b3 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .text          0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .data          0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .bss           0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .text.PINSEL_ConfigTraceFunc
+                0x00000000       0x24 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .text.PINSEL_SetI2C0Pins
+                0x00000000       0x18 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0xad8 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000       0x1c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000       0x2e /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000       0x10 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x12e /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x5b3 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000       0x18 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x7af /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x2c7 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000       0x63 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x13f /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .group         0x00000000        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .text          0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .data          0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .bss           0x00000000        0x0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .text.TIM_GetIntCaptureStatus
+                0x00000000       0x54 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .text.TIM_ClearIntCapturePending
+                0x00000000       0x4c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .text.TIM_ConfigStructInit
+                0x00000000       0x10 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .text.TIM_DeInit
+                0x00000000       0x60 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .text.TIM_ResetCounter
+                0x00000000       0x44 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .text.TIM_UpdateMatchValue
+                0x00000000       0x54 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .text.TIM_ConfigCapture
+                0x00000000       0x78 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .text.TIM_GetCaptureValue
+                0x00000000       0x50 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0xad8 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000       0x1c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000       0x2e /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000       0x10 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x12e /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x5b3 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000       0x18 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x7af /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x2c7 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000       0x63 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x2f7 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000       0xdd /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .text          0x00000000        0x0 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_64.o)
+ .data          0x00000000        0x0 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_64.o)
+ .bss           0x00000000        0x0 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_ldivmod
+                0x00000000       0x26 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_64.o)
+ .text          0x00000000        0x0 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/TPI-EDIII.o
+LOAD ./src/cr_startup_lpc175x_6x.o
+LOAD ./src/crp.o
+LOAD /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a
+START GROUP
+LOAD /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a
+LOAD /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a
+LOAD /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libgcc.a
+END GROUP
+                0x00000000                        __base_MFlash512 = 0x0
+                0x00000000                        __base_Flash = 0x0
+                0x00080000                        __top_MFlash512 = 0x80000
+                0x00080000                        __top_Flash = 0x80000
+                0x10000000                        __base_RamLoc32 = 0x10000000
+                0x10000000                        __base_RAM = 0x10000000
+                0x10008000                        __top_RamLoc32 = 0x10008000
+                0x10008000                        __top_RAM = 0x10008000
+                0x2007c000                        __base_RamAHB32 = 0x2007c000
+                0x2007c000                        __base_RAM2 = 0x2007c000
+                0x20084000                        __top_RamAHB32 = 0x20084000
+                0x20084000                        __top_RAM2 = 0x20084000
+
+.text           0x00000000     0x1508
+ FILL mask 0xff
+                0x00000000                        __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./src/cr_startup_lpc175x_6x.o
+                0x00000000                g_pfnVectors
+                0x000000cc                        . = ALIGN (0x4)
+                0x000000cc                        __section_table_start = .
+                0x000000cc                        __data_section_table = .
+                0x000000cc        0x4 LONG 0x1508 LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0x8 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0x1508 LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                        __data_section_table_end = .
+                0x000000e4                        __bss_section_table = .
+                0x000000e4        0x4 LONG 0x10000008 ADDR (.bss)
+                0x000000e8        0x4 LONG 0x8 SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                        __bss_section_table_end = .
+                0x000000f4                        __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000f4      0x148 ./src/cr_startup_lpc175x_6x.o
+                0x000000f4                data_init
+                0x00000138                bss_init
+                0x00000170                ResetISR
+                0x000001ec                NMI_Handler
+                0x000001f4                HardFault_Handler
+                0x000001fc                MemManage_Handler
+                0x00000204                BusFault_Handler
+                0x0000020c                UsageFault_Handler
+                0x00000214                SVC_Handler
+                0x0000021c                DebugMon_Handler
+                0x00000224                PendSV_Handler
+                0x0000022c                SysTick_Handler
+                0x00000234                RIT_IRQHandler
+                0x00000234                I2C0_IRQHandler
+                0x00000234                USBActivity_IRQHandler
+                0x00000234                PWM1_IRQHandler
+                0x00000234                I2C1_IRQHandler
+                0x00000234                EINT2_IRQHandler
+                0x00000234                UART1_IRQHandler
+                0x00000234                EINT3_IRQHandler
+                0x00000234                CANActivity_IRQHandler
+                0x00000234                TIMER3_IRQHandler
+                0x00000234                UART0_IRQHandler
+                0x00000234                IntDefaultHandler
+                0x00000234                PLL0_IRQHandler
+                0x00000234                CAN_IRQHandler
+                0x00000234                PLL1_IRQHandler
+                0x00000234                SSP0_IRQHandler
+                0x00000234                I2S_IRQHandler
+                0x00000234                I2C2_IRQHandler
+                0x00000234                RTC_IRQHandler
+                0x00000234                TIMER0_IRQHandler
+                0x00000234                SPI_IRQHandler
+                0x00000234                EINT1_IRQHandler
+                0x00000234                UART2_IRQHandler
+                0x00000234                SSP1_IRQHandler
+                0x00000234                USB_IRQHandler
+                0x00000234                BOD_IRQHandler
+                0x00000234                WDT_IRQHandler
+                0x00000234                QEI_IRQHandler
+                0x00000234                EINT0_IRQHandler
+                0x00000234                DMA_IRQHandler
+                0x00000234                UART3_IRQHandler
+                0x00000234                MCPWM_IRQHandler
+                0x00000234                ENET_IRQHandler
+                0x000002fc                        . = 0x2fc
+ *fill*         0x0000023c       0xc0 ff
+                0x000002fc                        PROVIDE (__CRP_WORD_START__ = .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                        PROVIDE (__CRP_WORD_END__ = .)
+                0x00000001                        ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.NVIC_EnableIRQ
+                0x00000300       0x30 ./src/TPI-EDIII.o
+ .text.main     0x00000330       0x14 ./src/TPI-EDIII.o
+                0x00000330                main
+ .text.cfgGPIO  0x00000344      0x322 ./src/TPI-EDIII.o
+                0x00000344                cfgGPIO
+ *fill*         0x00000666        0x2 ff
+ .text.cfgTimer
+                0x00000668      0x100 ./src/TPI-EDIII.o
+                0x00000668                cfgTimer
+ .text.cfgADC   0x00000768       0x4c ./src/TPI-EDIII.o
+                0x00000768                cfgADC
+ .text.TIMER1_IRQHandler
+                0x000007b4       0x4c ./src/TPI-EDIII.o
+                0x000007b4                TIMER1_IRQHandler
+ .text.TIMER2_IRQHandler
+                0x00000800       0x70 ./src/TPI-EDIII.o
+                0x00000800                TIMER2_IRQHandler
+ .text.ADC_IRQHandler
+                0x00000870       0x20 ./src/TPI-EDIII.o
+                0x00000870                ADC_IRQHandler
+ .text.actDisplays
+                0x00000890      0x3d8 ./src/TPI-EDIII.o
+                0x00000890                actDisplays
+ .text.SystemInit
+                0x00000c68       0xd8 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                0x00000c68                SystemInit
+ .text.ADC_Init
+                0x00000d40       0x58 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x00000d40                ADC_Init
+ .text.ADC_StartCmd
+                0x00000d98       0x3c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x00000d98                ADC_StartCmd
+ .text.ADC_BurstCmd
+                0x00000dd4       0x30 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x00000dd4                ADC_BurstCmd
+ .text.ADC_EdgeStartConfig
+                0x00000e04       0x3c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x00000e04                ADC_EdgeStartConfig
+ .text.ADC_IntConfig
+                0x00000e40       0x44 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x00000e40                ADC_IntConfig
+ .text.ADC_ChannelCmd
+                0x00000e84       0x34 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x00000e84                ADC_ChannelCmd
+ .text.ADC_ChannelGetData
+                0x00000eb8       0x28 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x00000eb8                ADC_ChannelGetData
+ .text.CLKPWR_SetPCLKDiv
+                0x00000ee0       0x4c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                0x00000ee0                CLKPWR_SetPCLKDiv
+ .text.CLKPWR_GetPCLKSEL
+                0x00000f2c       0x20 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                0x00000f2c                CLKPWR_GetPCLKSEL
+ .text.CLKPWR_GetPCLK
+                0x00000f4c       0x24 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                0x00000f4c                CLKPWR_GetPCLK
+ .text.CLKPWR_ConfigPPWR
+                0x00000f70       0x34 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                0x00000f70                CLKPWR_ConfigPPWR
+ .text.GPIO_GetPointer
+                0x00000fa4       0x12 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.GPIO_SetDir
+                0x00000fb6       0x18 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                0x00000fb6                GPIO_SetDir
+ .text.GPIO_SetValue
+                0x00000fce        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                0x00000fce                GPIO_SetValue
+ .text.GPIO_ClearValue
+                0x00000fda        0xc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                0x00000fda                GPIO_ClearValue
+ .text.check_failed
+                0x00000fe6        0x2 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+                0x00000fe6                check_failed
+ .text.PINSEL_ConfigPin
+                0x00000fe8       0x78 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+                0x00000fe8                PINSEL_ConfigPin
+ .text.TIM_GetIntStatus
+                0x00001060       0x50 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                0x00001060                TIM_GetIntStatus
+ .text.TIM_ClearIntPending
+                0x000010b0       0x4c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                0x000010b0                TIM_ClearIntPending
+ .text.TIM_Init
+                0x000010fc      0x15c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                0x000010fc                TIM_Init
+ .text.TIM_Cmd  0x00001258       0x48 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                0x00001258                TIM_Cmd
+ .text.TIM_ConfigMatch
+                0x000012a0       0xcc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                0x000012a0                TIM_ConfigMatch
+ .text.__weak_main
+                0x0000136c        0x4 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+                0x0000136c                __main
+                0x0000136c                __weak_main
+ .text.__aeabi_division_uldivmod
+                0x00001370      0x174 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_64.o)
+                0x00001370                __aeabi_uldivmod
+                0x00001374                __bhs_ldivmod1
+ .text.__aeabi_division_idiv0
+                0x000014e4        0x2 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+                0x000014e4                __aeabi_idiv0
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.ADC_Init.str1.1
+                0x000014e6       0x1e /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                                  0xe (size before relaxing)
+ .rodata.CSWTCH.5
+                0x00001504        0x3 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .rodata.TIM_GetIntStatus.str1.1
+                0x00001507       0x10 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                0x00001518                        . = ALIGN (0x4)
+ *fill*         0x00001507        0x1 ff
+
+.glue_7         0x00001508        0x0
+ .glue_7        0x00001508        0x0 linker stubs
+
+.glue_7t        0x00001508        0x0
+ .glue_7t       0x00001508        0x0 linker stubs
+
+.vfp11_veneer   0x00001508        0x0
+ .vfp11_veneer  0x00001508        0x0 linker stubs
+
+.v4_bx          0x00001508        0x0
+ .v4_bx         0x00001508        0x0 linker stubs
+
+.iplt           0x00001508        0x0
+ .iplt          0x00001508        0x0 ./src/TPI-EDIII.o
+
+.rel.dyn        0x00001508        0x0
+ .rel.iplt      0x00001508        0x0 ./src/TPI-EDIII.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x00001508        0x0
+                0x00001508                        __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00001508                        __exidx_end = .
+                0x00001508                        _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x00001508
+ FILL mask 0xff
+                [!provide]                        PROVIDE (__start_data_RAM2 = .)
+                [!provide]                        PROVIDE (__start_data_RamAHB32 = .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2)
+ *(.data.$RamAHB32)
+ *(.data.$RAM2.*)
+ *(.data.$RamAHB32.*)
+                0x2007c000                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__end_data_RAM2 = .)
+                [!provide]                        PROVIDE (__end_data_RamAHB32 = .)
+
+.uninit_RESERVED
+                0x10000000        0x0
+                0x10000000                        _start_uninit_RESERVED = .
+ *(.bss.$RESERVED*)
+                0x10000000                        . = ALIGN (0x4)
+                0x10000000                        _end_uninit_RESERVED = .
+
+.data           0x10000000        0x8 load address 0x00001508
+ FILL mask 0xff
+                0x10000000                        _data = .
+                [!provide]                        PROVIDE (__start_data_RAM = .)
+                [!provide]                        PROVIDE (__start_data_RamLoc32 = .)
+ *(vtable)
+ *(.ramfunc*)
+ *(CodeQuickAccess)
+ *(DataQuickAccess)
+ *(RamFunction)
+ *(.data*)
+ .data.set_point
+                0x10000000        0x2 ./src/TPI-EDIII.o
+                0x10000000                set_point
+ .data.duty_cycle
+                0x10000002        0x1 ./src/TPI-EDIII.o
+                0x10000002                duty_cycle
+ *fill*         0x10000003        0x1 ff
+ .data.SystemCoreClock
+                0x10000004        0x4 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                0x10000004                SystemCoreClock
+                0x10000008                        . = ALIGN (0x4)
+                0x10000008                        _edata = .
+                [!provide]                        PROVIDE (__end_data_RAM = .)
+                [!provide]                        PROVIDE (__end_data_RamLoc32 = .)
+
+.igot.plt       0x10000008        0x0 load address 0x00001510
+ .igot.plt      0x10000008        0x0 ./src/TPI-EDIII.o
+
+.bss_RAM2       0x2007c000        0x0
+                [!provide]                        PROVIDE (__start_bss_RAM2 = .)
+                [!provide]                        PROVIDE (__start_bss_RamAHB32 = .)
+ *(.bss.$RAM2)
+ *(.bss.$RamAHB32)
+ *(.bss.$RAM2.*)
+ *(.bss.$RamAHB32.*)
+                0x2007c000                        . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                        PROVIDE (__end_bss_RAM2 = .)
+                [!provide]                        PROVIDE (__end_bss_RamAHB32 = .)
+
+.bss            0x10000008        0x8
+                0x10000008                        _bss = .
+                [!provide]                        PROVIDE (__start_bss_RAM = .)
+                [!provide]                        PROVIDE (__start_bss_RamLoc32 = .)
+ *(.bss*)
+ .bss.adc_muestras
+                0x10000008        0x2 ./src/TPI-EDIII.o
+                0x10000008                adc_muestras
+ .bss.nDisplay.2
+                0x1000000a        0x1 ./src/TPI-EDIII.o
+ .bss.current.1
+                0x1000000b        0x1 ./src/TPI-EDIII.o
+ .bss.valor.0   0x1000000c        0x4 ./src/TPI-EDIII.o
+ *(COMMON)
+                0x10000010                        . = ALIGN (0x4)
+                0x10000010                        _ebss = .
+                [!provide]                        PROVIDE (__end_bss_RAM = .)
+                [!provide]                        PROVIDE (__end_bss_RamLoc32 = .)
+                [!provide]                        PROVIDE (end = .)
+
+.noinit_RAM2    0x2007c000        0x0
+                [!provide]                        PROVIDE (__start_noinit_RAM2 = .)
+                [!provide]                        PROVIDE (__start_noinit_RamAHB32 = .)
+ *(.noinit.$RAM2)
+ *(.noinit.$RamAHB32)
+ *(.noinit.$RAM2.*)
+ *(.noinit.$RamAHB32.*)
+                0x2007c000                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__end_noinit_RAM2 = .)
+                [!provide]                        PROVIDE (__end_noinit_RamAHB32 = .)
+
+.noinit         0x10000010        0x0
+                0x10000010                        _noinit = .
+                [!provide]                        PROVIDE (__start_noinit_RAM = .)
+                [!provide]                        PROVIDE (__start_noinit_RamLoc32 = .)
+ *(.noinit*)
+                0x10000010                        . = ALIGN (0x4)
+                0x10000010                        _end_noinit = .
+                [!provide]                        PROVIDE (__end_noinit_RAM = .)
+                [!provide]                        PROVIDE (__end_noinit_RamLoc32 = .)
+                [!provide]                        PROVIDE (_pvHeapStart = DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10008000                        PROVIDE (_vStackTop = DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                0xefff749e                        PROVIDE (__valid_user_code_checksum = (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+                0x00000000                        _image_start = LOADADDR (.text)
+                0x00001510                        _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x00001510                        _image_size = (_image_end - _image_start)
+OUTPUT(TPI-EDIII.axf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x4608
+ .debug_info    0x00000000      0xc31 ./src/TPI-EDIII.o
+ .debug_info    0x00000c31      0x2a5 ./src/cr_startup_lpc175x_6x.o
+ .debug_info    0x00000ed6       0x40 ./src/crp.o
+ .debug_info    0x00000f16      0x347 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_info    0x0000125d      0x912 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_info    0x00001b6f      0x6ca /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_info    0x00002239     0x10f0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_info    0x00003329       0xd4 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_info    0x000033fd      0x540 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_info    0x0000393d      0xc81 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_info    0x000045be       0x4a /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+
+.debug_abbrev   0x00000000     0x1149
+ .debug_abbrev  0x00000000      0x25d ./src/TPI-EDIII.o
+ .debug_abbrev  0x0000025d      0x14d ./src/cr_startup_lpc175x_6x.o
+ .debug_abbrev  0x000003aa       0x38 ./src/crp.o
+ .debug_abbrev  0x000003e2      0x10e /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_abbrev  0x000004f0      0x1f7 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_abbrev  0x000006e7      0x202 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_abbrev  0x000008e9      0x2f9 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_abbrev  0x00000be2       0x75 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_abbrev  0x00000c57      0x1b9 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_abbrev  0x00000e10      0x2ea /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_abbrev  0x000010fa       0x4f /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+
+.debug_aranges  0x00000000      0x3d0
+ .debug_aranges
+                0x00000000       0x60 ./src/TPI-EDIII.o
+ .debug_aranges
+                0x00000060       0x80 ./src/cr_startup_lpc175x_6x.o
+ .debug_aranges
+                0x000000e0       0x18 ./src/crp.o
+ .debug_aranges
+                0x000000f8       0x28 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_aranges
+                0x00000120       0x80 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_aranges
+                0x000001a0       0x58 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_aranges
+                0x000001f8       0xe8 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_aranges
+                0x000002e0       0x20 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_aranges
+                0x00000300       0x30 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_aranges
+                0x00000330       0x80 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_aranges
+                0x000003b0       0x20 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+
+.debug_ranges   0x00000000      0x3e8
+ .debug_ranges  0x00000000       0x50 ./src/TPI-EDIII.o
+ .debug_ranges  0x00000050       0x70 ./src/cr_startup_lpc175x_6x.o
+ .debug_ranges  0x000000c0       0x18 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_ranges  0x000000d8       0x70 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_ranges  0x00000148       0x48 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_ranges  0x00000190       0xf0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_ranges  0x00000280       0x10 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_ranges  0x00000290       0x60 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_ranges  0x000002f0       0xe8 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_ranges  0x000003d8       0x10 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+
+.debug_macro    0x00000000     0x4260
+ .debug_macro   0x00000000      0x10e ./src/TPI-EDIII.o
+ .debug_macro   0x0000010e      0xade ./src/TPI-EDIII.o
+ .debug_macro   0x00000bec       0x1c ./src/TPI-EDIII.o
+ .debug_macro   0x00000c08       0x2e ./src/TPI-EDIII.o
+ .debug_macro   0x00000c36       0x10 ./src/TPI-EDIII.o
+ .debug_macro   0x00000c46      0x12e ./src/TPI-EDIII.o
+ .debug_macro   0x00000d74      0x5b3 ./src/TPI-EDIII.o
+ .debug_macro   0x00001327       0x18 ./src/TPI-EDIII.o
+ .debug_macro   0x0000133f      0x7af ./src/TPI-EDIII.o
+ .debug_macro   0x00001aee      0x2c7 ./src/TPI-EDIII.o
+ .debug_macro   0x00001db5       0x63 ./src/TPI-EDIII.o
+ .debug_macro   0x00001e18      0x13f ./src/TPI-EDIII.o
+ .debug_macro   0x00001f57       0x46 ./src/TPI-EDIII.o
+ .debug_macro   0x00001f9d       0xea ./src/TPI-EDIII.o
+ .debug_macro   0x00002087       0xeb ./src/TPI-EDIII.o
+ .debug_macro   0x00002172      0x2ae ./src/TPI-EDIII.o
+ .debug_macro   0x00002420      0x33a ./src/TPI-EDIII.o
+ .debug_macro   0x0000275a       0x1d ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00002777       0x1a ./src/crp.o
+ .debug_macro   0x00002791       0x34 ./src/crp.o
+ .debug_macro   0x000027c5      0x12b /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x000028f0      0xad8 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x000033c8       0x9f /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_macro   0x00003467       0xe5 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_macro   0x0000354c      0x2f7 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_macro   0x00003843       0xdd /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_macro   0x00003920       0x8d /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x000039ad      0x2f1 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00003c9e       0x96 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_macro   0x00003d34       0x40 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_macro   0x00003d74       0x5a /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00003dce       0x5d /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00003e2b       0xd7 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00003f02       0x8d /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00003f8f       0xa8 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_macro   0x00004037       0xe4 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_macro   0x0000411b      0x145 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+
+.debug_line     0x00000000     0x2ef5
+ .debug_line    0x00000000      0x5e4 ./src/TPI-EDIII.o
+ .debug_line    0x000005e4      0x11e ./src/cr_startup_lpc175x_6x.o
+ .debug_line    0x00000702       0xb2 ./src/crp.o
+ .debug_line    0x000007b4      0x414 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_line    0x00000bc8      0x6ba /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_line    0x00001282      0x452 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_line    0x000016d4      0x84b /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_line    0x00001f1f      0x210 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_line    0x0000212f      0x38a /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_line    0x000024b9      0x9f2 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_line    0x00002eab       0x4a /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+
+.debug_str      0x00000000     0xf914
+ .debug_str     0x00000000     0xf914 ./src/TPI-EDIII.o
+                               0xd20a (size before relaxing)
+ .debug_str     0x0000f914     0x308c ./src/cr_startup_lpc175x_6x.o
+ .debug_str     0x0000f914     0x2f75 ./src/crp.o
+ .debug_str     0x0000f914     0x8a44 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_str     0x0000f914     0xa62b /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_str     0x0000f914     0x9c3e /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_str     0x0000f914     0x8f9d /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_str     0x0000f914     0x486b /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_str     0x0000f914     0x8eb6 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_str     0x0000f914     0xac63 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_str     0x0000f914      0x126 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+
+.comment        0x00000000       0x45
+ .comment       0x00000000       0x45 ./src/TPI-EDIII.o
+                                 0x46 (size before relaxing)
+ .comment       0x00000045       0x46 ./src/cr_startup_lpc175x_6x.o
+ .comment       0x00000045       0x46 ./src/crp.o
+ .comment       0x00000045       0x46 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .comment       0x00000045       0x46 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .comment       0x00000045       0x46 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .comment       0x00000045       0x46 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .comment       0x00000045       0x46 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .comment       0x00000045       0x46 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .comment       0x00000045       0x46 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .comment       0x00000045       0x46 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x00000000       0x2b
+ .ARM.attributes
+                0x00000000       0x2d ./src/TPI-EDIII.o
+ .ARM.attributes
+                0x0000002d       0x2d ./src/cr_startup_lpc175x_6x.o
+ .ARM.attributes
+                0x0000005a       0x2d ./src/crp.o
+ .ARM.attributes
+                0x00000087       0x2d /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .ARM.attributes
+                0x000000b4       0x2d /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .ARM.attributes
+                0x000000e1       0x2d /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .ARM.attributes
+                0x0000010e       0x2d /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .ARM.attributes
+                0x0000013b       0x2d /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .ARM.attributes
+                0x00000168       0x2d /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .ARM.attributes
+                0x00000195       0x2d /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .ARM.attributes
+                0x000001c2       0x2d /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x000001ef       0x1b /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_64.o)
+ .ARM.attributes
+                0x0000020a       0x1b /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+
+.debug_frame    0x00000000      0x920
+ .debug_frame   0x00000000      0x138 ./src/TPI-EDIII.o
+ .debug_frame   0x00000138      0x170 ./src/cr_startup_lpc175x_6x.o
+ .debug_frame   0x000002a8       0x38 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_frame   0x000002e0      0x16c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_frame   0x0000044c       0xa0 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_frame   0x000004ec      0x228 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_frame   0x00000714       0x20 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_frame   0x00000734       0x50 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_frame   0x00000784      0x17c /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_frame   0x00000900       0x20 /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+
+.debug_loc      0x00000000     0x1b15
+ .debug_loc     0x00000000      0x6fc /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_loc     0x000006fc      0x21b /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_loc     0x00000917      0x840 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_loc     0x00001157       0x2a /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_loc     0x00001181      0x19a /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_loc     0x0000131b      0x7fa /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_BurstCmd                                      /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                                                  ./src/TPI-EDIII.o
+ADC_ChannelCmd                                    /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                                                  ./src/TPI-EDIII.o
+ADC_ChannelGetData                                /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                                                  ./src/TPI-EDIII.o
+ADC_ChannelGetStatus                              /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ADC_DeInit                                        /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ADC_EdgeStartConfig                               /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                                                  ./src/TPI-EDIII.o
+ADC_GetData                                       /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ADC_GlobalGetData                                 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ADC_GlobalGetStatus                               /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ADC_IRQHandler                                    ./src/TPI-EDIII.o
+ADC_Init                                          /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                                                  ./src/TPI-EDIII.o
+ADC_IntConfig                                     /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                                                  ./src/TPI-EDIII.o
+ADC_PowerdownCmd                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ADC_StartCmd                                      /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                                                  ./src/TPI-EDIII.o
+BOD_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+BusFault_Handler                                  ./src/cr_startup_lpc175x_6x.o
+CANActivity_IRQHandler                            ./src/cr_startup_lpc175x_6x.o
+CAN_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+CLKPWR_ConfigPPWR                                 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+CLKPWR_DeepPowerDown                              /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+CLKPWR_DeepSleep                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+CLKPWR_GetPCLK                                    /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+CLKPWR_GetPCLKSEL                                 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+CLKPWR_PowerDown                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+CLKPWR_SetPCLKDiv                                 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+CLKPWR_Sleep                                      /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+CRP_WORD                                          ./src/crp.o
+DMA_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+DebugMon_Handler                                  ./src/cr_startup_lpc175x_6x.o
+EINT0_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+EINT1_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+EINT2_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+EINT3_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+ENET_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+FIO_ByteClearValue                                /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_ByteReadValue                                 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_ByteSetDir                                    /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_ByteSetMask                                   /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_ByteSetValue                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_ClearInt                                      /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_ClearValue                                    /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_GetIntStatus                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_HalfWordClearValue                            /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_HalfWordReadValue                             /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_HalfWordSetDir                                /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_HalfWordSetMask                               /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_HalfWordSetValue                              /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_IntCmd                                        /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_ReadValue                                     /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_SetDir                                        /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_SetMask                                       /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+FIO_SetValue                                      /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+GPIO_ClearInt                                     /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+GPIO_ClearValue                                   /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                                                  ./src/TPI-EDIII.o
+GPIO_GetIntStatus                                 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+GPIO_IntCmd                                       /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+GPIO_ReadValue                                    /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+GPIO_SetDir                                       /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                                                  ./src/TPI-EDIII.o
+GPIO_SetValue                                     /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                                                  ./src/TPI-EDIII.o
+HardFault_Handler                                 ./src/cr_startup_lpc175x_6x.o
+I2C0_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+I2C1_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+I2C2_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+I2S_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+IntDefaultHandler                                 ./src/cr_startup_lpc175x_6x.o
+MCPWM_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+MemManage_Handler                                 ./src/cr_startup_lpc175x_6x.o
+NMI_Handler                                       ./src/cr_startup_lpc175x_6x.o
+PINSEL_ConfigPin                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+                                                  ./src/TPI-EDIII.o
+PINSEL_ConfigTraceFunc                            /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+PINSEL_SetI2C0Pins                                /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+PLL0_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+PLL1_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+PWM1_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+PendSV_Handler                                    ./src/cr_startup_lpc175x_6x.o
+QEI_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+RIT_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+RTC_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+ResetISR                                          ./src/cr_startup_lpc175x_6x.o
+SPI_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+SSP0_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+SSP1_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+SVC_Handler                                       ./src/cr_startup_lpc175x_6x.o
+SysTick_Handler                                   ./src/cr_startup_lpc175x_6x.o
+SystemCoreClock                                   /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+SystemCoreClockUpdate                             /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+SystemInit                                        /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                                                  ./src/cr_startup_lpc175x_6x.o
+TIMER0_IRQHandler                                 ./src/cr_startup_lpc175x_6x.o
+TIMER1_IRQHandler                                 ./src/TPI-EDIII.o
+TIMER2_IRQHandler                                 ./src/TPI-EDIII.o
+TIMER3_IRQHandler                                 ./src/cr_startup_lpc175x_6x.o
+TIM_ClearIntCapturePending                        /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+TIM_ClearIntPending                               /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                                                  ./src/TPI-EDIII.o
+TIM_Cmd                                           /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                                                  ./src/TPI-EDIII.o
+TIM_ConfigCapture                                 /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+TIM_ConfigMatch                                   /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                                                  ./src/TPI-EDIII.o
+TIM_ConfigStructInit                              /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+TIM_DeInit                                        /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+TIM_GetCaptureValue                               /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+TIM_GetIntCaptureStatus                           /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+TIM_GetIntStatus                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                                                  ./src/TPI-EDIII.o
+TIM_Init                                          /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                                                  ./src/TPI-EDIII.o
+TIM_ResetCounter                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+TIM_UpdateMatchValue                              /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+UART0_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+UART1_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+UART2_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+UART3_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+USBActivity_IRQHandler                            ./src/cr_startup_lpc175x_6x.o
+USB_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+UsageFault_Handler                                ./src/cr_startup_lpc175x_6x.o
+WDT_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+__aeabi_idiv0                                     /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+                                                  /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_64.o)
+__aeabi_ldivmod                                   /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_64.o)
+__aeabi_uldivmod                                  /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_64.o)
+                                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+__bhs_ldivmod1                                    /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_64.o)
+__bss_section_table_end                           ./src/cr_startup_lpc175x_6x.o
+__data_section_table                              ./src/cr_startup_lpc175x_6x.o
+__data_section_table_end                          ./src/cr_startup_lpc175x_6x.o
+__main                                            /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+                                                  ./src/cr_startup_lpc175x_6x.o
+__valid_user_code_checksum                        ./src/cr_startup_lpc175x_6x.o
+__weak_main                                       /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+_vStackTop                                        ./src/cr_startup_lpc175x_6x.o
+actDisplays                                       ./src/TPI-EDIII.o
+adc_muestras                                      ./src/TPI-EDIII.o
+bss_init                                          ./src/cr_startup_lpc175x_6x.o
+cfgADC                                            ./src/TPI-EDIII.o
+cfgGPIO                                           ./src/TPI-EDIII.o
+cfgTimer                                          ./src/TPI-EDIII.o
+check_failed                                      /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+                                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                                                  /home/santiagoalasia/Documentos/MCUXpresso/Workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+data_init                                         ./src/cr_startup_lpc175x_6x.o
+duty_cycle                                        ./src/TPI-EDIII.o
+g_pfnVectors                                      ./src/cr_startup_lpc175x_6x.o
+main                                              ./src/TPI-EDIII.o
+                                                  /usr/local/mcuxpressoide-25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.linux_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+set_point                                         ./src/TPI-EDIII.o

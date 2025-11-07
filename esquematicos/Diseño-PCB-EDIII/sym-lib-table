@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LPC1769-Placa")(type "KiCad")(uri "${KIPRJMOD}/LPC1769-Placa.kicad_sym")(options "")(descr ""))
+)
